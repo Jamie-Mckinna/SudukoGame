@@ -1,0 +1,16 @@
+C:\Users\jamom\Desktop\Projects\SudukoGame\Suduko_Game\bin\Debug\net5.0\Suduko_Game.exe
+C:\Users\jamom\Desktop\Projects\SudukoGame\Suduko_Game\bin\Debug\net5.0\Suduko_Game.deps.json
+C:\Users\jamom\Desktop\Projects\SudukoGame\Suduko_Game\bin\Debug\net5.0\Suduko_Game.runtimeconfig.json
+C:\Users\jamom\Desktop\Projects\SudukoGame\Suduko_Game\bin\Debug\net5.0\Suduko_Game.runtimeconfig.dev.json
+C:\Users\jamom\Desktop\Projects\SudukoGame\Suduko_Game\bin\Debug\net5.0\Suduko_Game.dll
+C:\Users\jamom\Desktop\Projects\SudukoGame\Suduko_Game\bin\Debug\net5.0\ref\Suduko_Game.dll
+C:\Users\jamom\Desktop\Projects\SudukoGame\Suduko_Game\bin\Debug\net5.0\Suduko_Game.pdb
+C:\Users\jamom\Desktop\Projects\SudukoGame\Suduko_Game\obj\Debug\net5.0\Suduko_Game.csproj.AssemblyReference.cache
+C:\Users\jamom\Desktop\Projects\SudukoGame\Suduko_Game\obj\Debug\net5.0\Suduko_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamom\Desktop\Projects\SudukoGame\Suduko_Game\obj\Debug\net5.0\Suduko_Game.AssemblyInfoInputs.cache
+C:\Users\jamom\Desktop\Projects\SudukoGame\Suduko_Game\obj\Debug\net5.0\Suduko_Game.AssemblyInfo.cs
+C:\Users\jamom\Desktop\Projects\SudukoGame\Suduko_Game\obj\Debug\net5.0\Suduko_Game.csproj.CoreCompileInputs.cache
+C:\Users\jamom\Desktop\Projects\SudukoGame\Suduko_Game\obj\Debug\net5.0\Suduko_Game.dll
+C:\Users\jamom\Desktop\Projects\SudukoGame\Suduko_Game\obj\Debug\net5.0\ref\Suduko_Game.dll
+C:\Users\jamom\Desktop\Projects\SudukoGame\Suduko_Game\obj\Debug\net5.0\Suduko_Game.pdb
+C:\Users\jamom\Desktop\Projects\SudukoGame\Suduko_Game\obj\Debug\net5.0\Suduko_Game.genruntimeconfig.cache
